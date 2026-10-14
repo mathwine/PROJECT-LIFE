@@ -58,4 +58,4 @@ Master files are then at:
 - Email: mathwine@gmail.com
 - Phone: 267-377-7487
 - Location: Philadelphia, PA 19125
-- LinkedIn: https://www.linkedin.com/in/matthewweinhoffer/
+- LinkedIn: https://www.linkedin.com/in/matthew-weinhoffer
